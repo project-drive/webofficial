@@ -1,0 +1,35 @@
+// Styling for the team section
+#team{
+    background-image: url('../img/bg.jpg');
+}
+.team-member {
+
+  margin-bottom: 50px;
+
+  text-align: center;
+  img {
+    width: 225px;
+    height: 225px;
+    border: 7px solid fade-out($black, 0.9);
+  }
+  h4 {
+    color : $primary;
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    margin-top: 0;
+  }
+  // a{
+  //
+  // margin-top: 60px;
+  // }
+}
+.team-member-button {
+
+  text-align: right;
+  a{
+    margin-top: 10px;
+  }
+}
