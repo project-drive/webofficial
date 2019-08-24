@@ -92,7 +92,7 @@ img::-moz-selection {
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important; }
 
 #mainNav {
-  background-color: #1f2227; }
+  background-color: #000000; }
   #mainNav .navbar-toggler {
     font-size: 12px;
     right: 0;
